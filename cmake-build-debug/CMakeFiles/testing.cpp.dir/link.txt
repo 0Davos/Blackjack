@@ -1,0 +1,3 @@
+"C:\Users\odavi\Desktop\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\testing.cpp.dir/objects.a
+C:\Users\odavi\Desktop\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\testing.cpp.dir/objects.a @CMakeFiles\testing.cpp.dir\objects1.rsp
+C:\Users\odavi\Desktop\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\testing.cpp.dir/objects.a -Wl,--no-whole-archive -o testing.cpp.exe -Wl,--out-implib,libtesting.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testing.cpp.dir\linkLibs.rsp
