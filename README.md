@@ -17,7 +17,7 @@ and a Deck having multiple cards. I also included two file I/O functions within 
 and later write to it.
 
 ## Any known bugs at time of submission
-- Aces are usually worth both 1 and 11 at any time, but I had a 
+Aces are usually worth both 1 and 11 at any time, but I had a 
 difficult time figuring out how to fix this.
 
 ## Citations for any code not written by you or the instructor
